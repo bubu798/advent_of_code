@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Day1 {
     public static void main(String[] args) {
         try {
-            Scanner scanner = new Scanner(new File("src/1st problem/input.txt"));
+            Scanner scanner = new Scanner(new File("/input.txt"));
             String line = null;
             Integer result = 0;
             Integer max = 0;
