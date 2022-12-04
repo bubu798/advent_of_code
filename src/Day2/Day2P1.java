@@ -13,8 +13,8 @@ public class Day2P1 {
                 String[] str = scanner.nextLine().split(" ");
                 //System.out.println(scanner.nextLine());
                 if(str[0].equals("A")) {
-                    System.out.println("adversar piatra");
-                    System.out.println(str[0]);
+                   // System.out.println("adversar piatra");
+                    //System.out.println(str[0]);
                     if(str[1].equals("X")) {
                         score = 4;
 //                        System.out.println("eu piatra");
